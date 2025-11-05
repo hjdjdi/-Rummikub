@@ -1,0 +1,7 @@
+﻿  rummikub.cpp
+C:\Users\User\Desktop\c++ASsigment\1 cpp\1 cpp\rummikub.cpp(53,24): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\Desktop\c++ASsigment\1 cpp\1 cpp\rummikub.cpp(103,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c++ASsigment\1 cpp\1 cpp\rummikub.cpp(157,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c++ASsigment\1 cpp\1 cpp\rummikub.cpp(200,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\c++ASsigment\1 cpp\1 cpp\rummikub.cpp(409,21): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  1 cpp.vcxproj -> C:\Users\User\Desktop\c++ASsigment\1 cpp\x64\Debug\1 cpp.exe
